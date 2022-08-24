@@ -1,6 +1,6 @@
 ---
 layout: custom/page
-permalink: research/presentations/
+permalink: /research/presentations/
 title: presentations
 description: presentations by categories in reversed chronological order
 years_defenses: [2019]
@@ -9,7 +9,6 @@ years_workshops: [2017]
 years_seminars: [2022, 2020, 2019, 2017]
 years_popularizations: [2018]
 nav: false
-nav_order: 1
 ---
 <!-- _pages/presentations.md -->
 
@@ -50,4 +49,3 @@ nav_order: 1
   {% bibliography -f popularizations -q @*[year={{y}}]* %}
 {% endfor %}
 </div>
-

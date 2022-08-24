@@ -1,7 +1,6 @@
 ---
-layout: custom/cv
+layout: custom/links
 permalink: /links/
 title: links
-nav: true
-nav_order: 4
+nav: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: custom/page
-permalink: research/publications/
+permalink: /research/publications/
 title: publications
 description: publications by categories in reversed chronological order
 years_thesis: [2019]
@@ -9,7 +9,6 @@ years_publications: [2022, 2019, 2018, 2017]
 years_internships: [2016, 2015, 2014, 2013]
 years_contributions: [2021]
 nav: false
-nav_order: 1
 ---
 <!-- _pages/publications.md -->
 

@@ -36,7 +36,7 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix" align="justify">
             {{ content }}
           </div>
 
@@ -46,7 +46,7 @@ layout: default
           {%- endif %}
           {% if page.selected_papers -%}
             <!-- Selected papers -->
-            {%- include selected_papers.html %}
+            {%- include custom/selected_papers.html %}
           {%- endif %}
           {%- if page.social %}
           <!-- Social -->
